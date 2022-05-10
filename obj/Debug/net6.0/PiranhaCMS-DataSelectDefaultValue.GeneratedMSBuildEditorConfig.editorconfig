@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PiranhaCMS-DataSelectDefaultValue
+build_property.RootNamespace = PiranhaCMS-DataSelectDefaultValue
+build_property.ProjectDir = F:\Github\Cloned\PiranhaCMS-DataSelectDefaultValue\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = F:\Github\Cloned\PiranhaCMS-DataSelectDefaultValue
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/Archive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXEFyY2hpdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/AudioBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcQXVkaW9CbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/ColumnBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcQ29sdW1uQmxvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/Comment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcQ29tbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/HtmlBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcSHRtbEJsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/ImageBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcSW1hZ2VCbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/ImageGalleryBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcSW1hZ2VHYWxsZXJ5QmxvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/MarkdownBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcTWFya2Rvd25CbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/PageBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcUGFnZUJsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/PostBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcUG9zdEJsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/QuoteBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcUXVvdGVCbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/SeparatorBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcU2VwYXJhdG9yQmxvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/TextBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcVGV4dEJsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/DisplayTemplates/VideoBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXERpc3BsYXlUZW1wbGF0ZXNcVmlkZW9CbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/Page.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Cms/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ21zXFBvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Setup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2V0dXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Github/Cloned/PiranhaCMS-DataSelectDefaultValue/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
