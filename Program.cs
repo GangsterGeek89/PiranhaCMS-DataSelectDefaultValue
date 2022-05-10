@@ -74,6 +74,12 @@ app.UsePiranha(options =>
         new DataSelectFieldSerializer<CustomDataSelectField<PageItemFixedValueModel>>()
     );
 
+    // Register DataSelectField With Hard Coded
+    App.Fields.Register<CustomDataSelectField<PageItemHardCodedIdModel>>();
+    App.Serializers.Register<CustomDataSelectField<PageItemHardCodedIdModel>>(
+        new DataSelectFieldSerializer<CustomDataSelectField<PageItemHardCodedIdModel>>()
+    );
+
     // Register DataSelectField With ProviderOne
     App.Fields.Register<CustomDataSelectField<PageItemModel<ProviderOne>>>();
     App.Serializers.Register<CustomDataSelectField<PageItemModel<ProviderOne>>>(

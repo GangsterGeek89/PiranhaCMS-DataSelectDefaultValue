@@ -20,6 +20,9 @@ namespace PiranhaCMS_DataSelectDefaultValue.Models
             [Field(Title = "Fixed Default Value")]
             public CustomDataSelectField<PageItemFixedValueModel> DataListProviderFixedValue { get; set; }
 
+            [Field(Title = "Hard Coded Id Value")]
+            public CustomDataSelectField<PageItemHardCodedIdModel> DataListProviderHardCodedId { get; set; }
+
             [Field(Title = "Provider One Default Value")]
             public CustomDataSelectField<PageItemModel<ProviderOne>> DataListProviderOne { get; set; }
 
